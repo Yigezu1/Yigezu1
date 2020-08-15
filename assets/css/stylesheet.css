@@ -1,0 +1,13 @@
+.header{
+    margin:20px;
+    clear:both;
+}
+.header h1{
+    float: left; 
+    background-color: green;
+    color:white;   
+}
+nav{
+    float:right;
+   
+}
