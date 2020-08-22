@@ -1,16 +1,3 @@
-.header{
-    margin:10px;
-    clear:both;
-}
-.header h1{
-    float: left; 
-    background-color: #00bfff;
-    color:white;   
-}
-nav{
-    float:right;
-   
-}
-h1{
-    font-size: 2rem;
+h1 {
+  font-size: 2rem;
 }
