@@ -6,3 +6,5 @@ Visit my Portfolio page for more details.
 https://yigezu1.github.io/Yigezu1/
 
 ![aboutme](https://user-images.githubusercontent.com/42190239/95386483-628a3d00-08bd-11eb-95e1-5e2c0f801cc2.PNG)
+
+![projects](https://user-images.githubusercontent.com/42190239/95386726-b9901200-08bd-11eb-87f2-37a1074db8a7.PNG)
