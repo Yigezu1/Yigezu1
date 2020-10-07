@@ -1,3 +1,5 @@
 # Yigezu Birhane
 ## Bio
-I have updated my Bio and linked with my Linkedin, GitHub and my resume.
+Visit my Portfolio page for more details.
+
+https://yigezu1.github.io/Yigezu1/
