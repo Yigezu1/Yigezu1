@@ -3,13 +3,13 @@ class About extends Component{
     render(){
         return (
             <div className="about-box">
-              <div className="card bg-info">
+              <div className="card">
                 <div className="card-body">
                   <h3 className="card-title">About Me</h3>                        
                 <div className="row">                
                 <div className="col-sm-4">
                   <img
-                    src="../assets/images/yigezu-img.png"
+                    src="assets/images/yigezu-img.png"
                     alt="Profile"
                     className="float-left mr-sm-3 img-fluid mb-3"
                   />
@@ -38,7 +38,7 @@ class About extends Component{
                     database programs in designing databases and tables for web
                     applications.
                   </p>
-                  <p className="card-text">For Detail see my resume: <a href="../assets/YigezuBirhane-Resume.pdf" target="_blank" className ="text-dark">Yigezu Birhane - Resume</a></p>
+                  <p className="card-text">For Detail see my resume: <a href="../assets/YigezuBirhane-Resume.pdf" target="_blank">Yigezu Birhane - Resume</a></p>
                 </div>                                
                 </div> 
 

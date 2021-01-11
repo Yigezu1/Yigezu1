@@ -23,7 +23,7 @@ class Contact extends Component{
     render(){
         return (
             <div className="contact-box">
-                <div className="card bg-info" >
+                <div className="card" >
                     <div className="card-body">
                         <h3 className="card-title">Contact Me</h3>
                         <p className="card-text">Feel free to leave me a message</p>

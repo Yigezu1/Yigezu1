@@ -51,7 +51,7 @@ class Card extends Component{
         const disabledDemo = demo === "" ? " disabled" : ""
         
         return(
-            <div className="card bg-info" >
+            <div className="card" >
                 <img src={process.env.PUBLIC_URL + image} className="card-img-top" alt="..." style={{ height: "400px", maxWidth: "100%", objectFit: "cover"}}/>
                 <div className="card-body">
                     <h5 className="card-title">{title}</h5>                    
